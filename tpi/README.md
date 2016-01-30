@@ -1,3 +1,3 @@
-## Laborator works for Discrete Math
+## Laborator works for Probability Theory
 
-- [Laboratory work nr 1](test) : Python introduction and basic Probability exercises
+- [Laboratory work nr 1](test) : Python introduction and basic probability exercises
