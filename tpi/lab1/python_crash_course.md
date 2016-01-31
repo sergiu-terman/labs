@@ -464,3 +464,4 @@ math.sqrt(16) == m.sqrt(16)  # => True
 import math
 dir(math)
 ```
+[Here](https://learnxinyminutes.com/docs/python3/) is the original version of the tutorial
