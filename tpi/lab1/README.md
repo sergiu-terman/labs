@@ -8,7 +8,7 @@ The exercises will be solved using **Python** programming language. I know that 
 ### Python environment setup
 I assume that most of you runs a Windows machine that's why i recommend installing **Anaconda** environment. It comes with a python interpreter *(more bout interpreting and compiling source code click [here](https://www.youtube.com/watch?v=qaj7nO1HUqA))* an editor and a REPL *(something that executes instantly every line of code that you type)* and also it has tons of useful libraries that you're going to use. Long story short, it has everything you need to run complete the laboratory work. Here is the [official anaconda page](https://www.continuum.io/downloads)  where you can download the application.
 
-## ACHTUNG !!!1
-Currently there are *2 Pythons*. **Python 2.7** the old one and **Python 3.x** the new one. Of corse we'll be using the new one. They actually are two different programming languages (though might not look very different). Please do not mistake the python version. Another tip is to try to include the python version in your *Google queries*, ex: `I have the some specific error python 3`. This approach might help you find faster the solution to your problem. I repeat we'll be using **PYTHON 3!!!!!**
+#### Note
+When you'll google `"Python"`, you might stumble upon different versions of it. **Python 2.7** the old one and **Python 3.x** the new one. Of corse we'll be using the new one. They actually are two different programming languages (though might not look very different). Please do not mistake the python version. Another tip is to try to include the python version in your *Google queries*, ex: `"I have the some specific error python 3"`. This approach might help you find faster the solution to your problem. I repeat: we'll be using **PYTHON 3!!!!!**
 
 ### A crash course to Python
