@@ -1,8 +1,7 @@
 # Laboratory work nr. 1
 
-## Deadline
-Group 1: 1 March 2:00 GMT+2
-Group 2: 7 March 2:00 GMT+2
+###Deadlines
+March 30nd, 00:00 GMT+2
 
 Welcome young ones, to the first probability theory lab. Here you have the opportunity to tap into the ancient and sacred art of probability. By solving the following exercises you'll undergo a unique training that will open the door to new opportunities and adventures.
 
@@ -28,6 +27,7 @@ Are you in for some gambling? So these are the rules. A fair coin will be tossed
 
 ### 2. I bet my life on this one
 Are you still in mood for gambling? Why don't we get more serious then! Let's roll old school and play some Russian roulette. Here's the deal. I have a revolver with a 6 slots barrel and only 2 bullets. Now i put the bullets into the revolver in **adjacent** slots, spin the barrel and hand you the gun. You point the gun to your head. You pull the trigger and ... Click! you're still alive. Congratulations but the game is not over yet. You have to pull the trigger one last time. Now you have two choices. 1 You spin the barrel afterwards you pull the trigger. 2 You pull the trigger without spinning. Luckily you also have a computer in front of you so you're allowed to simulate the current situation such that you can can make a better decision. After you've computed the probability for the initial conditions please also find out what are the probabilities in case the bullets are not adjacent. After you're done with that, compute the same probabilities only when the gun has 5 slots and 2 bullets.
+
 ![](http://dailypicksandflicks.com/wp-content/uploads/2015/04/Sharon-Boswell-Obrien-Pie-Face.jpg)
 
 
