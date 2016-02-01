@@ -1,7 +1,16 @@
 # Laboratory work nr. 1
 
-###Deadlines
+### Deadlines
 March 30nd, 00:00 GMT+2
+
+### Grading system
+1 problem  - 6
+2 problems - 7
+3 problems - 8
+4 problems - 9
+5 problems - 10
+
+*The problem nr 5 coming soon*
 
 Welcome young ones, to the first probability theory lab. Here you have the opportunity to tap into the ancient and sacred art of probability. By solving the following exercises you'll undergo a unique training that will open the door to new opportunities and adventures.
 
