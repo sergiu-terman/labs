@@ -32,7 +32,7 @@ Listen closer. I'm devising a new gambling game. The rules a very straightforwar
 
 ### 4. Dangerous pixels
 This morning CIA faxed UTM the following map scan. The total captured surface is around 42 square miles (duh... this imperial metric). With red is marked the land that is mined buy the guerrilla forces. Now CIA needs to evaluate the logistics required to defuse the deadly mines. But of course they do not have enough resources to compute the red area. Which is why they are playing their trump card, the brilliant engineers from FAF-151. The stakes are very high, and lots of innocent lives can be spared. So please compute the mined area a.s.a.p., using Monte Carlo method.
-![](http://i.imgur.com/EOtIlnG.png)
+![](http://i.imgur.com/d3LvdUo.png)
 
 ##### Tip
 The recommended python library for image processing is **pillow** (not the one you use to sleep).
