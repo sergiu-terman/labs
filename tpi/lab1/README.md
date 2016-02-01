@@ -30,4 +30,9 @@ Are you still in mood for gambling? Why don't we get more serious then! Let's ro
 ### 3. Old crooked Seidenberg
 Listen closer. I'm devising a new gambling game. The rules a very straightforward. I have 3 dice. I have to roll them few times. If at least one of my rolled dice fulfills the special condition then I win otherwise the player wins. Special condition: **the sum of my dice has to be 14**. Now remains to solve a small issue that I'm dealing with. What is the number of times I have to roll the dice such that game would seem fair but at the same time would tip the odds in my favor (naturally). But you have to be very careful. If the number of rolls is too great then everybody will understand that the game is not reasonable hence nobody will play. But if the number of rolls is too small then I'll remain broke. You have to find the golden middle (a tad greater than 0.5 winning rate, he he). Simulate the game for various number of rolls. In order to convince me draw me a plot that shows the winning probability in relation to number of rolls. Remember that you'll obtain a higher probability convergence by increasing the number of simulations, around 10k should be enough.
 
-### 4.
+### 4. Dangerous pixels
+This morning CIA faxed UTM the following map scan. The total captured surface is around 42 square miles (duh... this imperial metric). With red is marked the land that is mined buy the guerrilla forces. Now CIA needs to evaluate the logistics required to defuse the deadly mines. But of course they do not have enough resources to compute the red area. Which is why they are playing their trump card, the brilliant engineers from FAF-151. The stakes are very high, and lots of innocent lives can be spared. So please compute the mined area a.s.a.p., using Monte Carlo method.
+![](http://i.imgur.com/EOtIlnG.png)
+
+##### Tip
+The recommended python library for image processing is **pillow** (not the one you use to sleep).
