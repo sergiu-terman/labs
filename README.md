@@ -1,6 +1,6 @@
 ### Submission rules
 - You have to send the report to terman.sergiu@gmail.com
-- The email title must me [FAF-151][TPI/MD] Lab 1 (also include you full name in title in case it's something like crazy_boy@gmail.com)
+- The email title must be [FAF-151][TPI/MD] Lab 1 (also include your full name in case it's something like crazy_boy@gmail.com)
 - The report should contain the following:
   - A .pdf file with the problems
   - An archive with a folder for every problem (named 'problem1', 'problem2', etc)
