@@ -1,5 +1,9 @@
 # Laboratory work nr. 1
 
+## Deadline
+Group 1: 1 March 2:00 GMT+2
+Group 2: 7 March 2:00 GMT+2
+
 Welcome young ones, to the first probability theory lab. Here you have the opportunity to tap into the ancient and sacred art of probability. By solving the following exercises you'll undergo a unique training that will open the door to new opportunities and adventures.
 
 #### Note
