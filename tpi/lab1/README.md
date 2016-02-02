@@ -2,6 +2,7 @@
 
 ### Deadlines
 Group 1: March 1st, 02:00 GMT+2
+
 Group 2: March 7th, 02:00 GMT+2
 
 ### Grading system
