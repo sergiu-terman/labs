@@ -1,7 +1,8 @@
 # Laboratory work nr. 1
 
 ### Deadlines
-March 30nd, 00:00 GMT+2
+Group 1: March 1st, 02:00 GMT+2
+Group 2: March 7th, 02:00 GMT+2
 
 ### Grading system
 1 problem  - 6
