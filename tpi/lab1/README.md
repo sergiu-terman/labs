@@ -6,11 +6,11 @@ Group 1: March 1st, 02:00 GMT+2
 Group 2: March 7th, 02:00 GMT+2
 
 ### Grading system
-1 problem  - 6
-2 problems - 7
-3 problems - 8
-4 problems - 9
-5 problems - 10
+- 1 problem  - 6
+- 2 problems - 7
+- 3 problems - 8
+- 4 problems - 9
+- 5 problems - 10
 
 *The problem nr 5 coming soon*
 
