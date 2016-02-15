@@ -26,7 +26,7 @@ You have to write a program that computes the truth table for various expression
 - `not` operation
 - supports parenthesis
 
-Your program has to receive an input string like `(!x + y) * z + (!z * y * k)` and print out
+An example of your program input is `(!x + y) * z + (!z * y * k)` and it should print out:
 
 ![](https://github.com/sergiu-terman/labs/blob/master/aux/truth_table.png/?raw=true)
 
