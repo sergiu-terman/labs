@@ -21,10 +21,10 @@ You're allowed to use only `and`, `or` and `not` operations
 ### 2. Truth table solver
 You have to write a program that computes the truth table for various expressions. The set of expressions are limited to:
 
-- and operation
-- or operation
-- not operation
-- supports parenthesis
+- `and` operation
+- `or` operation
+- `not` operation
+- `supports` parenthesis
 
 Your program has to receive an input string like `(!x + y) * z + (!z * y * k)` and print out
 
