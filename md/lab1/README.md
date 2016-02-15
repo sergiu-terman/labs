@@ -14,6 +14,36 @@ Group 2: March 21th, 02:00 GMT+2
 
 *The problem nr 5 coming soon*
 
+### 2. Truth table solver
+You have to write a program that computes the truth table for various expressions. The set of expressions are limited to:
+
+- and operation
+- or operation
+- not operation
+- supports parenthesis
+
+Your program has to receive an input string like `(!x + y) * z + (!z * y * k)` and print out
+
+![](https://github.com/sergiu-terman/labs/blob/master/aux/truth_table.png/?raw=true)
+
+Here are some examples of input that your program should support
+
+```
+x + y
+!x * y
+(!x + y) * x + y * !k
+```
+
+###### Note
+I strongly recommend to use the python `eval` function. Inventing math operations and their execution priority is **not** part of you
+
+
+### 3. Leibniz harmonic triangle
+Write a program that prints the harmonic triangle for the depth `n`, where `n` is an input value. 
+
+
+###### Tip
+If you're using Python you might look into `fractions` module.
 
 ### 4. A game of life foreplay (aka [Elementary cellular automaton](https://en.wikipedia.org/wiki/Elementary_cellular_automaton))
 In this problem we're going to take a look at elementary cellular automaton. Every cell is like a small micro organism with a few primitive rules. When combining with other cells they form interesting patterns. There also is an interesting [ted talk](https://www.youtube.com/watch?v=60P7717-XOQ) given by Stephen Wolfram that touches this topic.
@@ -35,5 +65,4 @@ The rule applied above is called [rule 110](https://en.wikipedia.org/wiki/Rule_1
 
 Change arbitrary the initial rules and observe the difference.
 
-*Maybe you can find a new interesting pattern for Bunica's covor*
-
+*Maybe you can find a new interesting pattern for **Bunica's covor***
