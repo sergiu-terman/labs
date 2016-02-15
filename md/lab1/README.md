@@ -67,6 +67,6 @@ Now you have to compute the next 100 generations and print the resulting matrix 
 
 The rule applied above is called [rule 110](https://en.wikipedia.org/wiki/Rule_110), there is actually a [list of rules](https://en.wikipedia.org/wiki/Elementary_cellular_automaton) that renders quite interesting patterns.
 
-Change arbitrary the initial rules and observe the difference.
+Change arbitrary the initial rule and observe the differences.
 
 *Maybe you can find a new interesting pattern for Bunica's covor*
