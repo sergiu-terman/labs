@@ -14,6 +14,10 @@ Group 2: March 21th, 02:00 GMT+2
 
 *The problem nr 5 coming soon*
 
+### 1. XNOR
+Create a program that would ask for two boolean values (true or false, 0 or 1) and would output the result for the XNOR operation performed on them.
+You're allowed to use only `and`, `or` and `not` operations
+
 ### 2. Truth table solver
 You have to write a program that computes the truth table for various expressions. The set of expressions are limited to:
 
