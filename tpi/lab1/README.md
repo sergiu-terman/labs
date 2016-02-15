@@ -1,7 +1,7 @@
 # Laboratory work nr. 1
 
 ### Deadlines
-Group 1: March 1st, 02:00 GMT+2
+Group 1: February 29th, 02:00 GMT+2
 
 Group 2: March 7th, 02:00 GMT+2
 
