@@ -69,4 +69,4 @@ The rule applied above is called [rule 110](https://en.wikipedia.org/wiki/Rule_1
 
 Change arbitrary the initial rules and observe the difference.
 
-*Maybe you can find a new interesting pattern for **Bunica's covor***
+*Maybe you can find a new interesting pattern for Bunica's covor*
