@@ -12,8 +12,6 @@ Group 2: March 7th, 02:00 GMT+2
 - 4 problems - 9
 - 5 problems - 10
 
-*The problem nr 5 coming soon*
-
 Welcome young ones, to the first probability theory lab. Here you have the opportunity to tap into the ancient and sacred art of probability. By solving the following exercises you'll undergo a unique training that will open the door to new opportunities and adventures.
 
 #### Note
