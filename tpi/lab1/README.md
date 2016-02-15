@@ -39,7 +39,7 @@ Are you still in mood for gambling? Why don't we get more serious then! Let's ro
 
 Your task is to find the probability for both cases. After you've computed the probability for the initial conditions please also find out what are the probabilities in case the bullets are not adjacent. After you're done with that, compute the same probabilities only when the gun has a 5 slots barrel and 2 bullets. At the end you have to present the result for 8 different outcomes. Good luck staying alive.
 
-![](http://dailypicksandflicks.com/wp-content/uploads/2015/04/Sharon-Boswell-Obrien-Pie-Face.jpg)
+![](https://github.com/sergiu-terman/labs/blob/master/aux/roulete.jpeg)
 
 
 ### 3. Old crooked Seidenberg
@@ -48,7 +48,7 @@ Listen closer. I'm devising a new gambling game. The rules are straightforward. 
 Your task is to find the number rolls required to make the game playable but at the same time to bring profit (winning rate should be a tad smaller than 0.5). Try simulating the game for various number of roles. In order to convince me draw me a plot that shows the winning probability in relation to number of rolls. Remember that you'll obtain a higher probability convergence by increasing the number of simulations, around 10k should be enough.
 
 ### 4. Dangerous pixels
-![](http://i.imgur.com/d3LvdUo.png)
+![](https://github.com/sergiu-terman/labs/blob/master/aux/danger_zone.png)
 This morning CIA faxed UTM the following map scan. The total captured surface is around 42 square miles (duh... this imperial metric). With red is marked the land that is mined by the guerrilla forces. Now CIA needs to evaluate the logistics required to defuse the deadly mines. But of course they do not have enough resources to compute the red area. Which is why they are playing their trump card, the brilliant engineers from FAF-151.
 
 The stakes are very high, and lots of innocent lives can be spared. So please compute the mined area a.s.a.p., using Monte Carlo method.
