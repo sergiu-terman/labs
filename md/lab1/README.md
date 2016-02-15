@@ -24,7 +24,7 @@ You have to write a program that computes the truth table for various expression
 - `and` operation
 - `or` operation
 - `not` operation
-- `supports` parenthesis
+- supports parenthesis
 
 Your program has to receive an input string like `(!x + y) * z + (!z * y * k)` and print out
 
