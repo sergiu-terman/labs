@@ -39,7 +39,7 @@ x + y
 ```
 
 ###### Note
-I strongly recommend to use the python `eval` function. Inventing math operations and their execution priority is **not** part of you
+I strongly recommend to use the python `eval` function. Inventing math operations and their execution priority is **not** the aim of this exercise.
 
 
 ### 3. Leibniz harmonic triangle
