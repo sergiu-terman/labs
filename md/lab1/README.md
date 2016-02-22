@@ -70,3 +70,7 @@ The rule applied above is called [rule 110](https://en.wikipedia.org/wiki/Rule_1
 Change arbitrary the initial rule and observe the differences.
 
 *Maybe you can find a new interesting pattern for Bunica's covor*
+
+###### Bonus point
+Make your program in a way that it would be easy to change the number of pixels rendered for every cell. For instance my cell is 1 x 1 pixels. And by changing one or two variables my cell would change to 5 x 5 pixels.
+
