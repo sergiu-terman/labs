@@ -22,7 +22,7 @@ Write a computer program that would simulate the experiment. Explain your result
 Three points are chosen at random on a circle of unit circumference. What is the probability that the triangle defined by these points as vertices has three acute angles?
 
 ### 3. Densities
-Choose independently two numbers `B` and `C` at random from the interval `[-1, 1]` with uniform distribution, and consider the quadratic equation ![](https://github.com/sergiu-terman/labs/blob/master/aux/tpi2_form1.png =100x). Find the probability that the roots of this equation
+Choose independently two numbers `B` and `C` at random from the interval `[-1, 1]` with uniform distribution, and consider the quadratic equation <img src="https://github.com/sergiu-terman/labs/blob/master/aux/tpi2_form1.png" height="20"/>. Find the probability that the roots of this equation
 
 - are both real
 - are both positive
