@@ -22,7 +22,7 @@ Write a computer program that would simulate the experiment. Explain your result
 Three points are chosen at random on a circle of unit circumference. What is the probability that the triangle defined by these points as vertices has three acute angles?
 
 ### 3. Densities
-Choose independently two numbers `B` and `C` at random from the interval `[-1, 1]` with uniform distribution, and consider the quadratic equation <img src="https://github.com/sergiu-terman/labs/blob/master/aux/tpi2_form1.png" height="20"/>. Find the probability that the roots of this equation
+Choose independently two numbers `B` and `C` at random from the interval `[-1, 1]` with uniform distribution, and consider the quadratic equation <img src="https://github.com/sergiu-terman/labs/blob/master/aux/tpi2_form1.png" height="23"/>. Find the probability that the roots of this equation
 
 - are both real
 - are both positive
@@ -55,7 +55,7 @@ Jora Petrovici never pays the *troleibuz* (cost = `2 lei` in Chisinau). He assum
 Assume that the probability that there is a significant accident in a nuclear power plant during one year’s time is `0.001`. If a country has `100` nuclear plants, estimate the probability that there is at least one Chernobyl (or Black Mesa) during a given year.
 
 ### 12. Important Distributions
-Let `U` be a uniformly distributed random variable on `[0, 1]`. What is the probability that the equation ![](https://github.com/sergiu-terman/labs/blob/master/aux/tpi2_form2.png) has two distinct real roots `x1` and `x2` ?
+Let `U` be a uniformly distributed random variable on `[0, 1]`. What is the probability that the equation <img src="https://github.com/sergiu-terman/labs/blob/master/aux/tpi2_form2.png" height="23" /> has two distinct real roots `x1` and `x2` ?
 
 ### Continuous Conditional probability
 Suppose you toss a dart at a circular target of radius 10 inches. Given that the dart lands in the upper half of the target, find the probability that
