@@ -6,7 +6,7 @@
 
 ## 1 There is only one problem
 You have a set of 20 people conected via a friendship matrix. The whole list is
-given in [list.txt](www.test.com).
+given in [list.txt](https://github.com/sergiu-terman/labs/blob/master/aux/list.txt/?raw=true).
 
 ### 1.1 Friends
 Find the person with the most friends.
