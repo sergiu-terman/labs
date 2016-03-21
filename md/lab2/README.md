@@ -44,7 +44,7 @@ Let’s say that each of these people has a certain rate of posting content. Obv
 people who communicate more are much more influential. Suppose that
 you need to promote a new brand using the social media. We found out how
 often each of these 20 people writes something on their walls. You can find it in
-[influence.txt](www.test.com).
+[influence.txt](https://github.com/sergiu-terman/labs/blob/master/aux/influence.txt/?raw=true).
 
 Whom of these people will you contact? Why? Be advised that not only
 the frequency of posting matters, but also the number of friends!
@@ -53,3 +53,24 @@ Use the data from the previous exercise and find the new ”Rating” for each
 person by multiplying it with 0.5 of the posting rate.
 
 Please sort the people by the newly computed rating.
+
+### 1.5 Analyze your content
+You are publishing a book and would like to promote it through the use of social
+media. The book’s title is ”From T-Rex to Justin Bieber: How Internet has
+changed the Politics, Art and cute Cats” You have done some research in the
+world’s most popular social network and have found that the range of interests
+is stored in [interests.txt](https://github.com/sergiu-terman/labs/blob/master/aux/interests.txt/?raw=true).
+
+Analyze your title and see what spectre of interests is your book marketable to.
+
+### 1.6 Promote it
+We have provided you with a list of interests of each of these people. You can
+find it in [interests.txt](https://github.com/sergiu-terman/labs/blob/master/aux/interests.txt/?raw=true).
+
+Considering the set of interests you have chosen, who of them would you
+market the book to? Let’s say that a person has 5 of her interests coinciding
+with your book’s and she has a Rating of 346. Multiply her rating with the 0.2
+* coinciding interests to see a final score. Sort the people by this final score.
+
+Provide us with a list of 5 people we should contact to make
+your book a bestseller! Please use the names found in [people_interests.txt](https://github.com/sergiu-terman/labs/blob/master/aux/people_interests.txt/?raw=true)
