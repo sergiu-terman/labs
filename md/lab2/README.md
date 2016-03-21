@@ -1,8 +1,18 @@
 # Laboratory work nr. 1
 
 ### Deadlines
+Group 1: April 11, 02:00 GMT+2
+
+Group 2: April 18, 02:00 GMT+2
 
 ### Grading system
+For every problem you solve you get a score. At the end you add the score to 5 to get your grade.
+- 1.1 - 0.5
+- 1.2 - 0.5
+- 1.3 - 2
+- 1.4 - 0.5
+- 1.5 - 0.5
+- 1.6 - 1
 
 ## 1 There is only one problem
 You have a set of 20 people conected via a friendship matrix. The whole list is
