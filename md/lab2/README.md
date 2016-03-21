@@ -69,8 +69,7 @@ find it in [interests.txt](https://github.com/sergiu-terman/labs/blob/master/aux
 
 Considering the set of interests you have chosen, who of them would you
 market the book to? Let’s say that a person has 5 of her interests coinciding
-with your book’s and she has a Rating of 346. Multiply her rating with the 0.2
-* coinciding interests to see a final score. Sort the people by this final score.
+with your book’s and she has a Rating of 346. Multiply her rating with the 0.2 * coinciding interests to see a final score. Sort the people by this final score.
 
 Provide us with a list of 5 people we should contact to make
 your book a bestseller! Please use the names found in [people_interests.txt](https://github.com/sergiu-terman/labs/blob/master/aux/people_interests.txt/?raw=true)
