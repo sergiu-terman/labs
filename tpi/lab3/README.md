@@ -1,4 +1,4 @@
-# Laboratory work nr. 2
+# Laboratory work nr. 3
 
 ### Deadlines
 Group 1: May 2nd, 02:00 GMT+2
