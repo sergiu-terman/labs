@@ -26,7 +26,7 @@ The data that you have in this laboratory work is a **JSON** string. It is a pop
 
 # Frequency
 
-### 1
+## 1
 Write a program that prints the first 10 most frequently used **words**, and the number of times it was mentioned.
 
 Ex:
@@ -37,16 +37,16 @@ at 120
 . . .
 ```
 
-### 2
+## 2
 Write a program that prints the first 10 most frequently used **nouns**, and the number of times it was mentioned.
 
-### 3
+## 3
 Write a program that prints the first 10 most frequently used **proper nouns**, and the number of times it was mentioned.
 
-### 4
+## 4
 Write a program that receives a word as an input and draws a frequency bar chart for the last 2 years. Every bar should represent the period of 2 months.
 
-### 5
+## 5
 In our dataset we also have the number of likes and retweets for every message. This can give us some insight about the tweet popularity. Hence we can compute some sort of rating. The popularity of nouns is computed by the following formula `frequency * (1.4 + normRetweet) * (1.2 + normLikes)`. The values **normRetweet** and **normLikes** are the normalized values of retweets and like for every word. To compute the number of likes and retweets for every word you just cumulatively collect the numbers from every tweet that the word was mention.
 
 Ex: There are 2 tweets that mention the noun **program**. First tweet has **32** retweets and **87** likes. The second tweet has **42** retweets and **103** likes. The number of retweets the word **program** is **32 + 42** and the number of likes is **87 + 103**.
@@ -55,7 +55,7 @@ Write a program that prints the first 10 most popular **nouns**. The popularity 
 
 # Typing prediction
 
-#6
+## 6
 Write a program that receives as input an **uncompleted word** and prints 3 word suggestions, followed by their frequency. The suggestions should be based on the initial dataset and sorted by the word frequency, computed in the first problem.
 
 The input can be any uncompleted word.
@@ -64,7 +64,7 @@ Ex. Input: `app`, Output: `application (324), apple (164), appreciate (53)`. Whe
 
 Ex. Input: `pro`, Output: `programming (196), product (176), program (103)`. Again `programming` has the highest frequency.
 
-#7
+## 7
 Write a program that receives as input a **word** and prints 3 word suggestions, followed by the **suggestion occurrences**.
 
 
