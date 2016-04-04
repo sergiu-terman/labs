@@ -8,7 +8,7 @@ Group 2: May 2nd, 02:00 GMT+2
 ### Grading System
 
 ### What to do?
-In this lab you have the opportunity to solve problems closer to real file. This implies that you have to combine your probability skills with **natural language processing** field, aka NLP. The dataset you are going to use is a list of tweets, found here [tweets.json](www.example.com).
+In this lab you have the opportunity to solve problems closer to real file. This implies that you have to combine your probability skills with **natural language processing** field, aka NLP. The dataset you are going to use is a list of tweets, found here [tweets.json](https://github.com/sergiu-terman/labs/blob/master/aux/tweets.json).
 
 Your task is divided in two topic.
 
@@ -44,7 +44,7 @@ Write a program that prints the first 10 most frequently used **nouns**, and the
 Write a program that prints the first 10 most frequently used **proper nouns**, and the number of times it was mentioned.
 
 ## 4
-Write a program that receives a word as an input and draws a frequency bar chart for the last 2 years. Every bar should represent the period of 2 months.
+Write a program that receives a word as an input and draws a frequency bar chart. Every bar should represent the period of 1 month.
 
 ## 5
 In our dataset we also have the number of likes and retweets for every message. This can give us some insight about the tweet popularity. Hence we can compute some sort of rating. The popularity of nouns is computed by the following formula `frequency * (1.4 + normRetweet) * (1.2 + normLikes)`. The values **normRetweet** and **normLikes** are the normalized values of retweets and like for every word. To compute the number of likes and retweets for every word you just cumulatively collect the numbers from every tweet that the word was mention.
