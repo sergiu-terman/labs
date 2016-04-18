@@ -6,6 +6,17 @@ Group 1: May 2nd, 02:00 GMT+2
 Group 2: May 2nd, 02:00 GMT+2
 
 ### Grading System
+Add the accumulated score to 3 to obtain your grade:
+- 1: 0.5
+- 2: 0.5
+- 3: 0.5
+- 4: 1.5
+- 5: 0.5
+- 6: 1.5
+- 7: 2
+
+##### Note
+In case you accumulated a mark in form of `x.5` (ex: `8.5`) the mark will strongly depend on your report. If you did a lousy job on your report the mark will be floored `$ echo "from math import floor; print(floor(8.5))" | python`.
 
 ### What to do?
 In this lab you have the opportunity to solve problems closer to real file. This implies that you have to combine your probability skills with **natural language processing** field, aka NLP. The dataset you are going to use is a list of tweets, found here [tweets.json](https://github.com/sergiu-terman/labs/blob/master/aux/tweets.json).
