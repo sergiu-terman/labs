@@ -43,7 +43,7 @@ A major part of your job is to create a file that can be fed to Gephi. [Here](ht
 
 ## 4
 
-Firstly you have to select the 200 tweets from the initial dataset. From every tweet message text you have to extract the words (you guessed right, using a tokenizer). Every word should represent a graph node. The graph edges represent the connection between words in every tweet message.
+Firstly you have to select 200 tweets from the initial dataset. From every tweet message text you have to extract the words (you guessed right, using a tokenizer). Every word should represent a graph node. The graph edges represent the connection between words in every tweet message.
 
 Example: tweet 1: "What a sunny day", tweet 2: "This day is awful"
 
@@ -59,7 +59,7 @@ awful -> This, day, is
 ```
 
 #### First step
-Write a program that will generate a CSV file that represent the word connection in the 200 tweets.
+Write a program that will generate a CSV file that represent the word connection in the selected 200 tweets.
 
 #### Second step
 - Load the generated CSV file to Gephi
